@@ -4,6 +4,7 @@ class App {
   $target = null;
   data = [];
 
+  // setup
   constructor($target) {
     this.$target = $target;
 
